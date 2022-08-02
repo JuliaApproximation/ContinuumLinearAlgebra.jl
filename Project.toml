@@ -1,0 +1,4 @@
+name = "ContinuumLinearAlgebra"
+uuid = "500b46f7-2120-4ad0-881b-f180a2584a60"
+authors = ["Sheehan Olver <solver@mac.com>"]
+version = "0.1.0"
